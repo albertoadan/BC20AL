@@ -1,0 +1,11 @@
+*.flf
+TestResults.xml
+.output
+launch.json
+rad.json
+*.app
+.alcache/
+.altemplates/
+.snapshots/
+app.json
+Active.ruleset.json
